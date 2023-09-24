@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rVLwuVEy18IXjBTIfKO/UC3xgA78ZiajxkMqzjVH8hA=",
+  "Source": "OtelProje.WebApi",
+  "BasePath": "_content/OtelProje.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

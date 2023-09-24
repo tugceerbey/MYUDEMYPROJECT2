@@ -1,0 +1,34 @@
+{
+  "Version": 1,
+  "Hash": "APS4WEolkl1kWHicSHLsqwbqSBrSkAdTyKMbQO8383s=",
+  "Source": "Otelproje.BusinessLayer",
+  "BasePath": "_content/Otelproje.BusinessLayer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\MyUdemyProjem\\ApiConsume\\OtelProje.DataAccessLayer\\OtelProje.DataAccessLayer.csproj",
+      "Version": 2,
+      "Source": "OtelProje.DataAccessLayer",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\MyUdemyProjem\\ApiConsume\\OtelProje.EntityLayer\\OtelProje.EntityLayer.csproj",
+      "Version": 2,
+      "Source": "OtelProje.EntityLayer",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

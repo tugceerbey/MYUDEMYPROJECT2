@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "Sn+nJBn3hFDQVNIj4U4SvP+pJd1umiLoMiwU3hOlp0k=",
+  "Source": "OtelProje.DtoLayer",
+  "BasePath": "_content/OtelProje.DtoLayer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\MyUdemyProjem\\ApiConsume\\OtelProje.EntityLayer\\OtelProje.EntityLayer.csproj",
+      "Version": 2,
+      "Source": "OtelProje.EntityLayer",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

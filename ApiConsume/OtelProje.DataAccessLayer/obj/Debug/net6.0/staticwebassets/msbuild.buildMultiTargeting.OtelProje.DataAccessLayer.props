@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OtelProje.DataAccessLayer.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OtelProje.EntityLayer.props" />
+</Project>
